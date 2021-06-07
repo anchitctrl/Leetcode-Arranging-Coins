@@ -4,7 +4,7 @@ You have n coins and you want to build a staircase with these coins. The stairca
 
 Given the integer n, return the number of complete rows of the staircase you will build.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/70264806/120958094-97180680-c774-11eb-8495-ef460d701e51.png)
 
 
 Input: n = 5
